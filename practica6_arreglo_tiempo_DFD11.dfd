@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'escribe la cantidad de segundos totales'
+5
+1
+1
+s
+6
+3
+1
+H
+13
+trunc(s/3600)
+1
+r
+13
+s mod   3600 
+1
+m
+11
+trunc(r/60)
+6
+1
+1
+f
+11
+r  mod  60 
+6
+3
+9
+tiempo(1)
+1
+H
+9
+tiempo(2)
+1
+m
+9
+tiempo(3)
+1
+f
+4
+1
+181
+'Horas:',H,'                                                                               Minutos:',m,'                                                                 Segundos:',f
+1
